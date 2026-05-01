@@ -4,7 +4,7 @@ Repositorio oficial: <https://github.com/yetsin7/Curso-de-JavaScript>
 
 ## Documentacion de referencia
 
-Consulta [DOCUMENTACION-OFICIAL.md](./DOCUMENTACION-OFICIAL.md) para estudiar
+Consulta [Documentación-JavaScript.md](./Documentación-JavaScript.md) para estudiar
 JavaScript con enlaces oficiales y referencias tecnicas utiles.
 
 ## Ruta recomendada
